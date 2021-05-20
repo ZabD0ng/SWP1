@@ -1,2 +1,2 @@
-20213080	yunmin
+yunmin:20213080
 kookmin Univ. SW dept.
